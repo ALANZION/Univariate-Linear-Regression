@@ -50,8 +50,8 @@ plt.show(
 </br>
 </br>
 </br>
-</br>
-![Screenshot 2023-12-29 233045](https://github.com/ALANZION/Univariate-Linear-Regression/assets/145743064/45d9c4ef-9830-4cd3-a89a-81a95b6ee90c)
+</br>![Screenshot 2023-12-29 233045](https://github.com/ALANZION/Univariate-Linear-Regression/assets/145743064/45d9c4ef-9830-4cd3-a89a-81a95b6ee90c)
+
 
 
 ## Result
